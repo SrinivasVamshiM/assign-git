@@ -37,4 +37,4 @@ Why should you have different branches?
 
 
 In a project how many remote Git repositories do you usually have?
-	We can have as many remote Git repositories as we need but there should be only one origin which is a default remote created by git.
+	We will have one remote Git repository but as we need we can add more.
