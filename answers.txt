@@ -37,4 +37,4 @@ Why should you have different branches?
 
 
 In a project how many remote Git repositories do you usually have?
-	We will have one remote Git repository but as we need we can add more.
+	We will have one remote Git repository but as we need we can add more when needed.
